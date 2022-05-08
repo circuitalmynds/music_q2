@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "I Was Doing All Right-d36sOfAcz0E.mp4",
+            "path": "music_q2/videos/I Was Doing All Right-d36sOfAcz0E.mp4",
+            "size": 3.2068567040000002
+        }
+    ],
+    "total_size": 3.2068567040000002
 }
