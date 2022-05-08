@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
+            "path": "music_q2/videos/João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
+            "size": 1.449734144
+        },
+        {
             "name": "I Was Doing All Right-d36sOfAcz0E.mp4",
             "path": "music_q2/videos/I Was Doing All Right-d36sOfAcz0E.mp4",
             "size": 3.2068567040000002
@@ -17,5 +22,5 @@
             "size": 17.045051392
         }
     ],
-    "total_size": 39.933647872
+    "total_size": 41.383382016
 }
