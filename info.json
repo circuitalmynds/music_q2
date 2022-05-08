@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Mephisto - Waltz No.1-rF2mJniRwCA.mp4",
+            "path": "music_q2/videos/Mephisto - Waltz No.1-rF2mJniRwCA.mp4",
+            "size": 16.423175168
+        },
+        {
             "name": "João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
             "path": "music_q2/videos/João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
             "size": 1.449734144
@@ -27,5 +32,5 @@
             "size": 17.045051392
         }
     ],
-    "total_size": 56.197023744000006
+    "total_size": 72.620198912
 }
