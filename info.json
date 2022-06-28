@@ -1,36 +1,43 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
-            "path": "music_q2/videos/João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
-            "size": 1.449734144
+            "path": "q2/videos/João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4",
+            "size": 1.449734144,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/João Gilberto - 05 - Bolinha de Papel-nkC40jeSdG4.mp4?raw=true"
         },
         {
             "name": "I Was Doing All Right-d36sOfAcz0E.mp4",
-            "path": "music_q2/videos/I Was Doing All Right-d36sOfAcz0E.mp4",
-            "size": 3.2068567040000002
+            "path": "q2/videos/I Was Doing All Right-d36sOfAcz0E.mp4",
+            "size": 3.2068567040000002,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/I Was Doing All Right-d36sOfAcz0E.mp4?raw=true"
         },
         {
             "name": "Siouxsie And The Banshees - Happy House-amR6-neQBPE.mp4",
-            "path": "music_q2/videos/Siouxsie And The Banshees - Happy House-amR6-neQBPE.mp4",
-            "size": 17.045051392
+            "path": "q2/videos/Siouxsie And The Banshees - Happy House-amR6-neQBPE.mp4",
+            "size": 17.045051392,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/Siouxsie And The Banshees - Happy House-amR6-neQBPE.mp4?raw=true"
         },
         {
             "name": "A Flock Of Seagulls - Space Age Love Song (Official Music Video)-gOK3rqVgN2I.mp4",
-            "path": "music_q2/videos/A Flock Of Seagulls - Space Age Love Song (Official Music Video)-gOK3rqVgN2I.mp4",
-            "size": 14.813641728
+            "path": "q2/videos/A Flock Of Seagulls - Space Age Love Song (Official Music Video)-gOK3rqVgN2I.mp4",
+            "size": 14.813641728,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/A Flock Of Seagulls - Space Age Love Song (Official Music Video)-gOK3rqVgN2I.mp4?raw=true"
         },
         {
             "name": "Mephisto - Waltz No.1-rF2mJniRwCA.mp4",
-            "path": "music_q2/videos/Mephisto - Waltz No.1-rF2mJniRwCA.mp4",
-            "size": 16.423175168
+            "path": "q2/videos/Mephisto - Waltz No.1-rF2mJniRwCA.mp4",
+            "size": 16.423175168,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/Mephisto - Waltz No.1-rF2mJniRwCA.mp4?raw=true"
         },
         {
             "name": "V. Rauzzini - Sinfonia for winds, strings & b.c. in D major_ R. Goebel-kKBlxRQ8CCU.mp4",
-            "path": "music_q2/videos/V. Rauzzini - Sinfonia for winds, strings & b.c. in D major_ R. Goebel-kKBlxRQ8CCU.mp4",
-            "size": 19.681739776
+            "path": "q2/videos/V. Rauzzini - Sinfonia for winds, strings & b.c. in D major_ R. Goebel-kKBlxRQ8CCU.mp4",
+            "size": 19.681739776,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/V. Rauzzini - Sinfonia for winds, strings & b.c. in D major_ R. Goebel-kKBlxRQ8CCU.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 72.620198912
 }
