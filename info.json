@@ -107,6 +107,13 @@
             "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/Blondie - Dreaming 1979 (High Quality, Top of the Pops)-8a2BF44HwFk.mp4?raw=true"
         },
         {
+            "id": "PS42BURQARU",
+            "name": "Ottorino Respighi - Piano Concerto in A minor (4 MILLION VIEWS TRIBUTE) [PS42BURQARU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/q2/videos/Ottorino Respighi - Piano Concerto in A minor (4 MILLION VIEWS TRIBUTE) [PS42BURQARU].mp4",
+            "size": 33.25253,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/Ottorino Respighi - Piano Concerto in A minor (4 MILLION VIEWS TRIBUTE) [PS42BURQARU].mp4?raw=true"
+        },
+        {
             "id": "amJI8veRjrI",
             "name": "The Perfect Book (Book of books) - Awana-amJI8veRjrI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/q2/videos/The Perfect Book (Book of books) - Awana-amJI8veRjrI.mp4",
@@ -119,6 +126,13 @@
             "path": "/home/alanmatzumiya/Videos/container/q2/videos/Albert Markov - Carnevale de Venezia, after N.Paganini [bsj3m6l4PRY].mp4",
             "size": 26.540587,
             "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/Albert Markov - Carnevale de Venezia, after N.Paganini [bsj3m6l4PRY].mp4?raw=true"
+        },
+        {
+            "id": "3QSUlRRnUZ8",
+            "name": "Sheila & Black Devotion - Love Me Baby • TopPop [3QSUlRRnUZ8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/q2/videos/Sheila & Black Devotion - Love Me Baby • TopPop [3QSUlRRnUZ8].mp4",
+            "size": 19.463532,
+            "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/Sheila & Black Devotion - Love Me Baby • TopPop [3QSUlRRnUZ8].mp4?raw=true"
         },
         {
             "id": "OBy-iN9iMDk",
@@ -219,5 +233,5 @@
             "url": "https://github.com/circuitalmynds/music_q2/blob/main/videos/AFI - Answer That And Stay Fashionable (FULL).mp4?raw=true"
         }
     ],
-    "total_size": 894.8890719999999
+    "total_size": 947.6051339999999
 }
